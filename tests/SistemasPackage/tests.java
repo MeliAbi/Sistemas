@@ -122,5 +122,5 @@ public class tests {
 		assertEquals(a,nuevoSistema.edadPromedio());
 		
 	}
-	
+	//xD
 }
